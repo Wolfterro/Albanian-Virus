@@ -2,7 +2,7 @@
 <h2>Source code of Albanian Virus written in C#</h2>
 
 #### Just in case you want to send it to your friends, you can use the binary from here:
-### [https://github.com/Wolfterro/Albanian-Virus/releases/tag/v1.0]()
+### [https://github.com/Wolfterro/Albanian-Virus/releases/tag/v1.0](https://github.com/Wolfterro/Albanian-Virus/releases/tag/v1.0)
 
 <br />
 
